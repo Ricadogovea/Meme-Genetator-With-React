@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Ricadogovea/Meme-Genetator-With-React.git/static/css/main.a3dba177.chunk.css",
+    "main.js": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/main.156f2062.chunk.js",
+    "main.js.map": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/main.156f2062.chunk.js.map",
+    "runtime-main.js": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/runtime-main.60a8becf.js",
+    "runtime-main.js.map": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/runtime-main.60a8becf.js.map",
+    "static/js/2.f7df0762.chunk.js": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/2.f7df0762.chunk.js",
+    "static/js/2.f7df0762.chunk.js.map": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/2.f7df0762.chunk.js.map",
+    "index.html": "/Ricadogovea/Meme-Genetator-With-React.git/index.html",
+    "precache-manifest.1a4e7da62621a5e57833f7c5e8d124ee.js": "/Ricadogovea/Meme-Genetator-With-React.git/precache-manifest.1a4e7da62621a5e57833f7c5e8d124ee.js",
+    "service-worker.js": "/Ricadogovea/Meme-Genetator-With-React.git/service-worker.js",
+    "static/css/main.a3dba177.chunk.css.map": "/Ricadogovea/Meme-Genetator-With-React.git/static/css/main.a3dba177.chunk.css.map",
+    "static/js/2.f7df0762.chunk.js.LICENSE.txt": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/2.f7df0762.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60a8becf.js",
+    "static/js/2.f7df0762.chunk.js",
+    "static/css/main.a3dba177.chunk.css",
+    "static/js/main.156f2062.chunk.js"
+  ]
+}
