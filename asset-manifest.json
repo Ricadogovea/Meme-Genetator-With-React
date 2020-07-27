@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Ricadogovea/Meme-Genetator-With-React.git/static/css/main.a3dba177.chunk.css",
-    "main.js": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/main.156f2062.chunk.js",
-    "main.js.map": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/main.156f2062.chunk.js.map",
-    "runtime-main.js": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/runtime-main.60a8becf.js",
-    "runtime-main.js.map": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/runtime-main.60a8becf.js.map",
-    "static/js/2.f7df0762.chunk.js": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/2.f7df0762.chunk.js",
-    "static/js/2.f7df0762.chunk.js.map": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/2.f7df0762.chunk.js.map",
-    "index.html": "/Ricadogovea/Meme-Genetator-With-React.git/index.html",
-    "precache-manifest.1a4e7da62621a5e57833f7c5e8d124ee.js": "/Ricadogovea/Meme-Genetator-With-React.git/precache-manifest.1a4e7da62621a5e57833f7c5e8d124ee.js",
-    "service-worker.js": "/Ricadogovea/Meme-Genetator-With-React.git/service-worker.js",
-    "static/css/main.a3dba177.chunk.css.map": "/Ricadogovea/Meme-Genetator-With-React.git/static/css/main.a3dba177.chunk.css.map",
-    "static/js/2.f7df0762.chunk.js.LICENSE.txt": "/Ricadogovea/Meme-Genetator-With-React.git/static/js/2.f7df0762.chunk.js.LICENSE.txt"
+    "main.css": "/Meme-Genetator-With-React/static/css/main.a3dba177.chunk.css",
+    "main.js": "/Meme-Genetator-With-React/static/js/main.913938e4.chunk.js",
+    "main.js.map": "/Meme-Genetator-With-React/static/js/main.913938e4.chunk.js.map",
+    "runtime-main.js": "/Meme-Genetator-With-React/static/js/runtime-main.f21004d5.js",
+    "runtime-main.js.map": "/Meme-Genetator-With-React/static/js/runtime-main.f21004d5.js.map",
+    "static/js/2.f7df0762.chunk.js": "/Meme-Genetator-With-React/static/js/2.f7df0762.chunk.js",
+    "static/js/2.f7df0762.chunk.js.map": "/Meme-Genetator-With-React/static/js/2.f7df0762.chunk.js.map",
+    "index.html": "/Meme-Genetator-With-React/index.html",
+    "precache-manifest.9b0e76451db22e4380c98ca22045021f.js": "/Meme-Genetator-With-React/precache-manifest.9b0e76451db22e4380c98ca22045021f.js",
+    "service-worker.js": "/Meme-Genetator-With-React/service-worker.js",
+    "static/css/main.a3dba177.chunk.css.map": "/Meme-Genetator-With-React/static/css/main.a3dba177.chunk.css.map",
+    "static/js/2.f7df0762.chunk.js.LICENSE.txt": "/Meme-Genetator-With-React/static/js/2.f7df0762.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.60a8becf.js",
+    "static/js/runtime-main.f21004d5.js",
     "static/js/2.f7df0762.chunk.js",
     "static/css/main.a3dba177.chunk.css",
-    "static/js/main.156f2062.chunk.js"
+    "static/js/main.913938e4.chunk.js"
   ]
 }
